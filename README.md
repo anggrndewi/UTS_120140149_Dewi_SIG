@@ -8,6 +8,9 @@
 * fitur Highlight on hover yang akan memberikan warna kuning pada bagian peta yang dipilih 
 * fitur Geolocated user untuk mengetahui lokasi saat ini
 
+##Link Dokumen Laporan
+*[Dokumen Laporan](https://drive.google.com/file/d/1gO6vmqTbgDlGCqoJ_u625z7eDOy0tYUw/view?usp=sharing)
+
 ## Links Website
 
 * [Way Kanan](https://way-kanan.000webhostapp.com/)
