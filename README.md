@@ -9,8 +9,8 @@
 * fitur Geolocated user untuk mengetahui lokasi saat ini
 
 ## Link Dokumen Laporan
-*[Dokumen Laporan](https://drive.google.com/file/d/1gO6vmqTbgDlGCqoJ_u625z7eDOy0tYUw/view?usp=sharing)
-*[Google drive](https://drive.google.com/file/d/1gO6vmqTbgDlGCqoJ_u625z7eDOy0tYUw/view?usp=sharing)
+* [Dokumen Laporan](https://drive.google.com/file/d/1gO6vmqTbgDlGCqoJ_u625z7eDOy0tYUw/view?usp=sharing)
+* [Google drive](https://drive.google.com/file/d/1gO6vmqTbgDlGCqoJ_u625z7eDOy0tYUw/view?usp=sharing)
 
 ## Links Website
 * [Way Kanan](https://way-kanan.000webhostapp.com/)
