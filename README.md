@@ -10,7 +10,7 @@
 
 ## Link Dokumen Laporan
 * [Dokumen Laporan](https://drive.google.com/file/d/1gO6vmqTbgDlGCqoJ_u625z7eDOy0tYUw/view?usp=sharing)
-* [Google drive](https://drive.google.com/file/d/1gO6vmqTbgDlGCqoJ_u625z7eDOy0tYUw/view?usp=sharing)
+* [Google drive](https://drive.google.com/drive/folders/1_Ybigf3WFM2F5vR-CH10z4i3bLx_Dkx7?usp=share_link)
 
 ## Links Website
 * [Way Kanan](https://way-kanan.000webhostapp.com/)
